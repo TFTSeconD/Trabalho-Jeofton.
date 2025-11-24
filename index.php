@@ -54,7 +54,7 @@ $produtos = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
 <div class="container mt-5">
     <div class="d-flex justify-content-between align-items-center mb-4">
-        <h1>📦 Sistema de Estoque</h1>
+        <h1>📦 Controle de Estoque v1.0</h1>
         <button class="btn btn-primary" onclick="abrirModal()">
             + Novo Produto
         </button>
